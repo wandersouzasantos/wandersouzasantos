@@ -1,7 +1,7 @@
 ### Sejam muito bem-vindos ao meu GitHub 😉
 
-Prazer, meu nome é Wânder de Souza Santos. Sou técnico em informações geográficas e estatísticas no IBGE desde 2014. Tenho bacharelado em Sistemas de Informação pelo ILES-ULBRA Itumbiara.  Tenho bastante interesse na área de computação evolucionária, especialmente no ramo dos Algoritmos Genético. O título do meu TCC, defendido em 2019, foi "Implementação de algoritmos genéticos paralelos em linguagem Java utilizando o <i>framework</i> Fork/Join". Planejo iniciar meu mestrado na área em 2021. Trabalho como Java, HTML, CSS, PostgreSQL. Atualmente, estou estudando através do curso programador web do programa novos caminhos e SpringMVC e Bootstrap4 pela Algaworks.
-Sou cristão, membro de A Igreja de Jesus Cristo dos Santos dos Últimos Dias, marido e pai de um casal.
+<p>Prazer, meu nome é Wânder de Souza Santos. Sou técnico em informações geográficas e estatísticas no IBGE desde 2014. Tenho bacharelado em Sistemas de Informação pelo ILES-ULBRA Itumbiara.  Tenho bastante interesse na área de computação evolucionária, especialmente no ramo dos Algoritmos Genético. O título do meu TCC, defendido em 2019, foi "Implementação de algoritmos genéticos paralelos em linguagem Java utilizando o <i>framework</i> Fork/Join". Planejo iniciar meu mestrado na área em 2021. Trabalho como Java, HTML, CSS, PostgreSQL. Atualmente, estou estudando através do curso programador web do programa novos caminhos e SpringMVC e Bootstrap4 pela Algaworks.</p>
+<p>Sou cristão, membro de A Igreja de Jesus Cristo dos Santos dos Últimos Dias, marido e pai de um casal.</p>
 
 
 <!--
