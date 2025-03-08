@@ -1,20 +1,41 @@
-### Sejam muito bem-vindos ao meu GitHub 😉
+# Sejam muito bem-vindos!!!
 
-<p>Prazer, meu nome é Wânder de Souza Santos. Sou técnico em informações geográficas e estatísticas no IBGE desde 2014. Tenho bacharelado em Sistemas de Informação pelo ILES-ULBRA Itumbiara.  Tenho bastante interesse na área de computação evolucionária, especialmente no ramo dos Algoritmos Genético. O título do meu TCC, defendido em 2019, foi "Implementação de algoritmos genéticos paralelos em linguagem Java utilizando o <i>framework</i> Fork/Join". Planejo iniciar meu mestrado na área em 2021. Trabalho como Java, HTML, CSS, PostgreSQL. Atualmente, estou estudando através do curso programador web do programa novos caminhos e SpringMVC e Bootstrap4 pela Algaworks.</p>
-<p>Sou cristão, membro de A Igreja de Jesus Cristo dos Santos dos Últimos Dias, marido e pai de um casal.</p>
+## Sobre mim
+Olá! Meu nome é **Wânder de Souza Santos**. Sou **técnico em informações geográficas e estatísticas no IBGE** desde 2014. Bacharel em **Sistemas de Informação** pelo ILES-ULBRA Itumbiara, tenho grande interesse na área de **computação evolucionária**, especialmente em **Algoritmos Genéticos**. Meu Trabalho de Conclusão de Curso (TCC), defendido em 2019, teve como tema:
 
+> **"Implementação de algoritmos genéticos paralelos em linguagem Java utilizando o framework Fork/Join"**.
 
-<!--
-**wandersouzasantos/wandersouzasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Além da tecnologia, sou **cristão**, membro de **A Igreja de Jesus Cristo dos Santos dos Últimos Dias**, marido e pai de três filhos. 👨‍👩‍👧‍👦
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Estudos e Formação Atual
+
+### 🖥️ **Full-Stack - Rocketseat**  
+Carga horária: 160h  
+<div style="background-color: #ddd; border-radius: 5px; width: 100%; height: 10px; overflow: hidden;">
+    <div style="width: 40%; height: 100%; background-color: #4CAF50;"></div>
+</div>
+
+### 🤖 **Especialização em Inteligência Artificial - UTFPR**  
+Carga horária: 360h  
+<div style="background-color: #ddd; border-radius: 5px; width: 100%; height: 10px; overflow: hidden;">
+    <div style="width: 20%; height: 100%; background-color: #4CAF50;"></div>
+</div>
+
+### 🔒 **Preservação da Privacidade em Ciência de Dados - ENCE/IBGE**  
+Carga horária: 45h  
+<div style="background-color: #ddd; border-radius: 5px; width: 100%; height: 10px; overflow: hidden;">
+    <div style="width: 10%; height: 100%; background-color: #4CAF50;"></div>
+</div>
+
+### 📊 **Certificado Profissional de Análise de Dados - Google**  
+Carga horária: 260h  
+<div style="background-color: #ddd; border-radius: 5px; width: 100%; height: 10px; overflow: hidden;">
+    <div style="width: 50%; height: 100%; background-color: #4CAF50;"></div>
+</div>
+
+---
+
+💡 **Interesses:** Inteligência Artificial, Algoritmos Genéticos, Ciência de Dados, Desenvolvimento Full-Stack e Computação Evolucionária.  
+📫 **Contato:** Me encontre por aqui no GitHub ou conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/wandersouzasantos/).
